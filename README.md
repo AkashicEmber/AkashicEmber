@@ -9,7 +9,7 @@
 [![Pixel 5](https://img.shields.io/badge/Pixel%205-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
 ### How to reach me 👋
-[![@AuroraRadiance](https://img.shields.io/badge/%40AuroraRadiance-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://github.com/AuroraRadiance)
+[![@AuroraRadiance](https://img.shields.io/badge/%40AuroraRadiance-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/AuroraRadiance)
 
 ### Counter!!
 
