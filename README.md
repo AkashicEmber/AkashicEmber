@@ -13,4 +13,4 @@
 
 ### Counter!!
 
-![AkashicEmber](https://count.getloli.com/get/@AuroraRadiance?theme=asoul)
+![AkashicEmber](https://count.getloli.com/get/@AkashicEmber?theme=asoul)
